@@ -1,0 +1,2 @@
+Funkcionalne :
+Nefunkcionalne : 
