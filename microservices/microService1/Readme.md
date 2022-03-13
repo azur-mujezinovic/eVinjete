@@ -1,3 +1,5 @@
+Avtentifikacija
+
 Funkcionalne :
 1. Pri registraciji in loginu se mora avtenticirati uporabnik
 2. V primeru 5 zaporednih neuspešnih prijav se uporabniku poslje email za preverjanje identitete
