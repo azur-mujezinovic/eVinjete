@@ -8,4 +8,4 @@ Funkcionalne :
 Nefunkcionalne :
 1. Potrdilo o nakupu mora biti poslano v manj kot 5 min
 2. Novi podatki v bazo se shranjujejo pravčasno
-3. proces avtentifikacije mora biti prost
+3. Nakup mora biti user friendly / enostaven
